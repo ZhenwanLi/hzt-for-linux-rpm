@@ -1,0 +1,25 @@
+# 构建产物
+build/
+
+# 绝不入库：安装包与二进制
+*.deb
+*.rpm
+*.so
+*.so.*
+
+# 运行数据 / 崩溃转储 / 日志
+*.dmp
+*.log
+userdata/
+dump/
+
+# 图片（避免误提交含真实信息的截图）
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# 杂项
+__pycache__/
+*.pyc
+.DS_Store

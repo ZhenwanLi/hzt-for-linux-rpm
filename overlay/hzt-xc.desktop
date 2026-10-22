@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=海政通信创版
+Name[en]=Gov IM Client (unofficial Linux build)
+GenericName=政务协同办公客户端
+Comment=非官方 Fedora/RHEL 打包版本
+Exec=hzt-xc %u
+Icon=internet-chat
+Terminal=false
+Categories=Network;InstantMessaging;
+StartupWMClass=com.hzt.xc
+MimeType=x-scheme-handler/taurushainanxc;
